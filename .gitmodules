@@ -1,3 +1,4 @@
 [submodule "mumble-server"]
 	path = mumble-server
 	url = https://github.com/lzulauf/hassio-addon-mumble-server
+	branch = beta
