@@ -2,3 +2,7 @@
 	path = mumble-server
 	url = https://github.com/lzulauf/hassio-addon-mumble-server
 	branch = beta
+[submodule "icecast"]
+	path = icecast
+	url = https://github.com/lzulauf/hassio-addon-icecast
+	branch = beta
